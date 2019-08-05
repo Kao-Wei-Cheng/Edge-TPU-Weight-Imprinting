@@ -3,8 +3,8 @@ There are two kind of Transfer Learning on Dev Board - Backpropogation and Impri
 You can use the slide below to implentment easily.
 
 # Update Dev Board Python library
-*Make sure that the Python library has already updated to 2.11.1.
-Updated Edge TPU Python library: https://coral.withgoogle.com/news/updates-07-2019/.*
+Make sure that the Python library has already updated to *2.11.1.*
+Updated Edge TPU Python library: https://coral.withgoogle.com/news/updates-07-2019/.
 
 # Backpropogation
 Retrain the classification model by backpropogation.
@@ -17,9 +17,9 @@ It's based on : Low-Shot Learning with Imprinted Weights https://arxiv.org/pdf/1
 Weight Impringting require very few sample images (fewer than 10 training samples can achieve high accuracy).
 Nevertheless, it has difficulty learning from datasets with large intra-class variation.If your use-case expects data with high intra-class variance, consider instead using on-device transfer learning with backpropagation
 
-# Slide with implement detail
+# *Slide with implement detail
 Implement Transfer Learning on Dev Board:
-https://drive.google.com/open?id=16TA87fefz00IRBdtywsvjkbUp5M6-wWJ
+https://drive.google.com/open?id=16TA87fefz00IRBdtywsvjkbUp5M6-wWJ*
 
 # Reference
 Google official website:
