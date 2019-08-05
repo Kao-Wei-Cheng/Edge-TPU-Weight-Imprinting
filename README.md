@@ -28,6 +28,6 @@ https://drive.google.com/open?id=16TA87fefz00IRBdtywsvjkbUp5M6-wWJ*
 *Low-Shot Learning with Imprinted Weights:*
 *https://arxiv.org/pdf/1712.07136.pdf*
 
-*Updated Edge TPU Python library: *
+*Updated Edge TPU Python library:*
 *https://coral.withgoogle.com/news/updates-07-2019/*
 
