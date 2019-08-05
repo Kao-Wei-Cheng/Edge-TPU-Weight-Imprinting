@@ -1,4 +1,5 @@
 # Introduction
+This implenment is based on Google Dev Board
 There are two kind of Transfer Learning on Dev Board - Backpropogation and Imprinted weight.
 You can use the slide below to implentment easily.
 
