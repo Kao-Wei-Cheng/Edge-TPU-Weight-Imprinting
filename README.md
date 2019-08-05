@@ -2,9 +2,9 @@
 There are two kind of Transfer Learning on Dev Board - Backpropogation and Imprinted weight.
 You can use the slide below to implentment easily.
 
-# *Update Dev Board Python library
-Make sure that the Python library has already updated to 2.11.1.
-Updated Edge TPU Python library: https://coral.withgoogle.com/news/updates-07-2019/.
+# Update Dev Board Python library
+*Make sure that the Python library has already updated to 2.11.1.
+Updated Edge TPU Python library: https://coral.withgoogle.com/news/updates-07-2019/.*
 
 # Backpropogation
 Retrain the classification model by backpropogation.
