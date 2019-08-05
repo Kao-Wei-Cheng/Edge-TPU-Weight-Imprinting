@@ -22,12 +22,12 @@ Nevertheless, it has difficulty learning from datasets with large intra-class va
 https://drive.google.com/open?id=16TA87fefz00IRBdtywsvjkbUp5M6-wWJ*
 
 # *Reference*
-*Google official website:
-https://coral.withgoogle.com/docs/edgetpu/retrain-classification-ondevice/
+*Google official website:*
+*https://coral.withgoogle.com/docs/edgetpu/retrain-classification-ondevice/*
 
-Low-Shot Learning with Imprinted Weights:
-https://arxiv.org/pdf/1712.07136.pdf
+*Low-Shot Learning with Imprinted Weights:*
+*https://arxiv.org/pdf/1712.07136.pdf*
 
-Updated Edge TPU Python library: 
-https://coral.withgoogle.com/news/updates-07-2019/*
+*Updated Edge TPU Python library: *
+*https://coral.withgoogle.com/news/updates-07-2019/*
 
